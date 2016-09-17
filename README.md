@@ -6,3 +6,6 @@
 - Pick Ruby (I'm using the Ubuntu option)
 - Click "Create"
 - You start off with 2 tabs: terminal, and instructions for where you can see your app
+
+## Handy Links
+- You might find some of [these](handy_links.md) links helpful
