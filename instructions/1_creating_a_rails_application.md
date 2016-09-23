@@ -12,3 +12,6 @@ cd timeline_app
 ```
 
 - Take a second to look around the files that were created
+
+
+[Step 2: Setting up the database](2_setting_up_the_database.md)
