@@ -9,3 +9,6 @@
 
 ## Handy Links
 - You might find some of [these](handy_links.md) links helpful
+
+## Instructions
+- [Step 1: Creating a rails application](instructions/1_creating_a_rails_application.md)
