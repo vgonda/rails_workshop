@@ -11,3 +11,5 @@ resources :events
 ```bash
 rake routes
 ```
+
+[Step 6: Creating the view](6_creating_a_view.md)
