@@ -12,3 +12,5 @@ rails generate migration CreateEvent message:text
 rake db:migrate
 ```
 - Check out what was added to `db/schema.rb`
+
+[Step 3: Creating an event model](3_creating_an_event_model.md)
