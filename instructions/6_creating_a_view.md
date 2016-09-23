@@ -20,3 +20,5 @@
 rails server
 ```
 - `Ctrl+C` stops the server
+
+[Step 7: Create the show page](7_create_the_show_page.md)
