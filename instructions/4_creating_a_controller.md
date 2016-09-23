@@ -9,3 +9,5 @@ class EventsController < ApplicationController
   end
 end
 ```
+
+[Step 5: Setting up the routes](5_setting_up_the_routes.md)
