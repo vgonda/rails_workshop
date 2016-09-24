@@ -6,3 +6,5 @@
 ```ruby
 <%= render partial: “form" %>
 ```
+
+[Step 11: Deleting an event](11_deleting_an_event.md)
