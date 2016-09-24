@@ -35,3 +35,5 @@ end
 ```ruby
 <%= link_to "New Event", new_event_path %>
 ```
+
+[Step 9: Create the edit page](9_creating_the_edit_page.md)
