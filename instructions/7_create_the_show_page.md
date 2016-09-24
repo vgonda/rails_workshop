@@ -8,3 +8,5 @@
 ```ruby
 <%= link_to "Show", event_path(event) %>
 ```
+
+[Step 8: Create the new page](8_creating_the_new_page.md)
