@@ -27,3 +27,5 @@ end
 - Add link to perform action: `add_relevance_event_path(@event)`
 
 - Now do the same to decrement relevance
+
+[Bonus Exercises](bonus_exercises.md)
