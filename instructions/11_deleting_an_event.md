@@ -13,3 +13,5 @@ end
 ```ruby
 <%= link_to "Delete", event_path(event), method: :delete %>
 ```
+
+[Step 12: Validating models](12_validating_models.md)
