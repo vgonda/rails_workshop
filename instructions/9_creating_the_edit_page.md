@@ -5,4 +5,4 @@
   - You can update an event with `event.update(event_params)`
 - Add link to edit on `index` and `show` pages: `edit_event_path(event)`
 
-[Step 10: Creating a partial](10_creatin_a_partial.md)
+[Step 10: Creating a partial](10_creating_a_partial.md)
