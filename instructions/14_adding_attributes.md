@@ -25,3 +25,4 @@ params.require(:event).permit(:message, :relevence)
 - Add the attribute on all the fields
   - You can use `form.number_field` in the form
 
+[Step 15: Add custom action](15_add_custom_action.md)
